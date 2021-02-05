@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-05 08:02+0000\n"
+"PO-Revision-Date: 2021-02-05 09:15+0100\n"
+"Last-Translator: Sander Klootwijk <sander.klootwijk@tutanota.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../qml/Main.qml:75 ../qml/Main.qml:3334 radiobe.desktop.in.h:1
+msgid "Radio BE"
+msgstr "Radio BE"
+
+#: ../qml/Main.qml:104 ../qml/Main.qml:375
+msgid "Flanders"
+msgstr "Vlaanderen"
+
+#: ../qml/Main.qml:125 ../qml/Main.qml:396
+msgid "Wallonia"
+msgstr "Wallonië"
+
+#: ../qml/Main.qml:146 ../qml/Main.qml:417
+msgid "East-Belgium"
+msgstr "Oost-België"
+
+#: ../qml/Main.qml:156 ../qml/SettingsDialog.qml:11
+#: ../qml/TutorialRegionaalDialog.qml:11
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../qml/Main.qml:164
+msgid "Night mode"
+msgstr "Nachtmodus"
+
+#: ../qml/Main.qml:168
+msgid "Day mode"
+msgstr "Dagmodus"
+
+#: ../qml/Main.qml:199
+msgid "Help"
+msgstr "Help"
+
+#: ../qml/Main.qml:207 ../qml/Main.qml:3334
+msgid "About"
+msgstr "Over"
+
+#: ../qml/Main.qml:225
+msgid "National"
+msgstr "Landelijk"
+
+#: ../qml/Main.qml:231
+msgid "Alternative"
+msgstr "Alternatief"
+
+#: ../qml/Main.qml:237
+msgid "Regional"
+msgstr "Regionaal"
+
+#: ../qml/Main.qml:368
+msgid "Select a region to listen to national<br>and alternative radio stations"
+msgstr ""
+"Kies een gewest om landelijke<br>en alternatieve zenders te beluisteren"
+
+#: ../qml/Main.qml:376
+msgid "Dutch-speaking Belgium"
+msgstr "Nederlandstalig België"
+
+#: ../qml/Main.qml:397
+msgid "French-speaking Belgium"
+msgstr "Franstalig België"
+
+#: ../qml/Main.qml:418
+msgid "German-speaking Belgium"
+msgstr "Duitstalig België"
+
+#: ../qml/Main.qml:440 ../qml/Main.qml:999
+msgid "Public broadcast Corporation"
+msgstr "Publieke Omroep"
+
+#: ../qml/Main.qml:645 ../qml/Main.qml:1127
+msgid "Commercial stations"
+msgstr "Commerciële zenders"
+
+#: ../qml/Main.qml:1112
+msgid "No stations found..."
+msgstr "Geen zenders gevonden..."
+
+#: ../qml/Main.qml:1366 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Antwerp"
+msgstr "Antwerpen"
+
+#: ../qml/Main.qml:1500 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Brussels"
+msgstr "Brussel"
+
+#: ../qml/Main.qml:1636 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Hainaut"
+msgstr "Henegouwen"
+
+#: ../qml/Main.qml:1740 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Limburg"
+msgstr "Limburg"
+
+#: ../qml/Main.qml:1979 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Liege"
+msgstr "Luik"
+
+#: ../qml/Main.qml:2098 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: ../qml/Main.qml:2187 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Namur"
+msgstr "Namen"
+
+#: ../qml/Main.qml:2261 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "East Flanders"
+msgstr "Oost-Vlaanderen"
+
+#: ../qml/Main.qml:2412 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "West Flanders"
+msgstr "West-Vlaanderen"
+
+#: ../qml/Main.qml:2456 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Flemish Brabant"
+msgstr "Vlaams-Brabant"
+
+#: ../qml/Main.qml:2530 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Walloon Brabant"
+msgstr "Waals-Brabant"
+
+#: ../qml/Main.qml:2737 ../qml/Main.qml:3157
+msgid "Now playing"
+msgstr "Nu aan het spelen"
+
+#: ../qml/Main.qml:2873
+msgid "Favorites"
+msgstr "Favorieten"
+
+#: ../qml/Main.qml:3184
+msgid "Select a station..."
+msgstr "Selecteer een zender..."
+
+#: ../qml/Main.qml:3299
+msgid "Oops!"
+msgstr "Oeps!"
+
+#: ../qml/Main.qml:3300
+msgid ""
+"This app requires an active internet connection! Please check your network "
+"settings and try again."
+msgstr ""
+"Deze app vereist een actieve internetverbinding! Controleer uw "
+"netwerkinstellingen en probeer het opnieuw."
+
+#: ../qml/Main.qml:3302 ../qml/Main.qml:3321 ../qml/Main.qml:3342
+#: ../qml/SettingsDialog.qml:247 ../qml/TutorialRegionaalDialog.qml:255
+msgid "Close"
+msgstr "Sluiten"
+
+#: ../qml/Main.qml:3308
+msgid "Try anyway"
+msgstr "Toch proberen"
+
+#: ../qml/Main.qml:3319
+msgid "Add favorites"
+msgstr "Favorieten toevoegen"
+
+#: ../qml/Main.qml:3319
+msgid ""
+"At the top of the screen you can switch between national, alternative and "
+"regional stations. You can switch between the different regions by using the "
+"flags in the menu bar."
+msgstr ""
+"Bovenin het scherm kunt u wisselen tussen landelijke, alternatieve en "
+"regionale zenders. Wisselen tussen de verschillende gewesten kan met de "
+"vlaggen in de menubalk."
+
+#: ../qml/Main.qml:3319
+msgid "Existing favorites can be overwritten by long pressing a button again."
+msgstr ""
+"Bestaande favorieten kunnen overschreven worden door een knop opnieuw lang "
+"ingedrukt te houden."
+
+#: ../qml/Main.qml:3319
+msgid ""
+"Long press a button and the current playing radio station will be added to "
+"the favorites."
+msgstr ""
+"Houd een knop lang ingedrukt en het huidig spelende radiostation wordt aan "
+"de favorieten toegevoegd."
+
+#: ../qml/Main.qml:3319
+msgid "Swipe up from the bottom of the screen to show the favorites."
+msgstr ""
+"Veeg vanaf de onderkant van het scherm omhoog om de favorieten te tonen."
+
+#: ../qml/Main.qml:3319
+msgid "Switch category"
+msgstr "Van categorie wisselen"
+
+#: ../qml/Main.qml:3319
+msgid "Tap an existing favorite to play the radio station."
+msgstr "Tik op een bestaande favoriet om het radiostation af te spelen."
+
+#: ../qml/Main.qml:3336
+msgid "License"
+msgstr "Licentie"
+
+#: ../qml/Main.qml:3336
+msgid "Source code"
+msgstr "Broncode"
+
+#: ../qml/Main.qml:3336
+msgid "Version"
+msgstr "Versie"
+
+#: ../qml/SettingsDialog.qml:20 ../qml/TutorialRegionaalDialog.qml:20
+msgid "Choose your region below."
+msgstr "Kies hieronder uw regio uit."
+
+#: ../qml/TutorialRegionaalDialog.qml:20
+msgid "You can adjust your choice later in the settings."
+msgstr "U kunt uw keuze later aanpassen in de instellingen."
+
+#: ../qml/TutorialRegionaalDialog.qml:252
+msgid "Cancel"
+msgstr "Annuleren"

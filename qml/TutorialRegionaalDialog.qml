@@ -8,7 +8,7 @@ Component {
   Dialog {
     signal closed();
     id: dialogue
-    title: "Instellingen"
+    title: i18n.tr("Settings")
 
     Component.onCompleted: {
       selector.selectedIndex = -1
@@ -17,7 +17,7 @@ Component {
     Label {
       width: parent.width
       wrapMode: Text.Wrap
-      text: "Kies hieronder uw regio uit. U kunt uw keuze later aanpassen in de instellingen."
+      text: i18n.tr("Choose your region below.") + i18n.tr("You can adjust your choice later in the settings.")
     }
 
     OptionSelector {
@@ -25,7 +25,7 @@ Component {
       expanded: true
       containerHeight: parent.height * 0.75
       anchors.horizontalCenter: parent.horizontalCenter
-      model: ["Antwerpen", "Brussel", "Henegouwen", "Limburg", "Luik", "Luxemburg", "Namen", "Oost-Vlaanderen", "West-Vlaanderen", "Vlaams-Brabant", "Waals-Brabant"]
+      model: [i18n.tr("Antwerp"), i18n.tr("Brussels"), i18n.tr("Hainaut"), i18n.tr("Limburg"), i18n.tr("Liege"), i18n.tr("Luxembourg"), i18n.tr("Namur"), i18n.tr("East Flanders"), i18n.tr("West Flanders"), i18n.tr("Flemish Brabant"), i18n.tr("Walloon Brabant")]
       onSelectedIndexChanged: {
         switch(selector.selectedIndex) {
         case 0: {
@@ -249,10 +249,10 @@ Button {
 
   text: {
     if (button.ready == false) {
-      "Annuleren"
+      i18n.tr("Cancel")
     }
     else {
-      "Sluiten"
+      i18n.tr("Close")
     }
   }
   color: theme.palette.normal.activity
