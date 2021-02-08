@@ -1,0 +1,244 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the radiobe.sanderklootwijk package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: radiobe.sanderklootwijk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-05 08:16+0000\n"
+"PO-Revision-Date: 2021-02-06 18:01+0000\n"
+"Last-Translator: Anne017 <anneonyme017@openmailbox.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Main.qml:75 ../qml/Main.qml:3334 radiobe.desktop.in.h:1
+msgid "Radio BE"
+msgstr "Radio BE"
+
+#: ../qml/Main.qml:104 ../qml/Main.qml:375
+msgid "Flanders"
+msgstr "Flandres"
+
+#: ../qml/Main.qml:125 ../qml/Main.qml:396
+msgid "Wallonia"
+msgstr "Wallonie"
+
+#: ../qml/Main.qml:146 ../qml/Main.qml:417
+msgid "East-Belgium"
+msgstr "Cantons de l'Est"
+
+#: ../qml/Main.qml:156 ../qml/SettingsDialog.qml:11
+#: ../qml/TutorialRegionaalDialog.qml:11
+msgid "Settings"
+msgstr "Paramètres"
+
+#: ../qml/Main.qml:164
+msgid "Night mode"
+msgstr "Mode nuit"
+
+#: ../qml/Main.qml:168
+msgid "Day mode"
+msgstr "Mode jour"
+
+#: ../qml/Main.qml:199
+msgid "Help"
+msgstr "Aide"
+
+#: ../qml/Main.qml:207 ../qml/Main.qml:3334
+msgid "About"
+msgstr "À propos"
+
+#: ../qml/Main.qml:225
+msgid "National"
+msgstr "National"
+
+#: ../qml/Main.qml:231
+msgid "Alternative"
+msgstr "Alternatif"
+
+#: ../qml/Main.qml:237
+msgid "Regional"
+msgstr "Régional"
+
+#: ../qml/Main.qml:368
+msgid "Select a region to listen to national<br>and alternative radio stations"
+msgstr "Sélectionnez une région pour écouter des stations de radio nationales<br>et alternatives"
+
+#: ../qml/Main.qml:376
+msgid "Dutch-speaking Belgium"
+msgstr "Belgique néerlandophone"
+
+#: ../qml/Main.qml:397
+msgid "French-speaking Belgium"
+msgstr "Belgique francophone"
+
+#: ../qml/Main.qml:418
+msgid "German-speaking Belgium"
+msgstr "Belgique germanophone"
+
+#: ../qml/Main.qml:440 ../qml/Main.qml:999
+msgid "Public broadcast Corporation"
+msgstr "Stations publiques"
+
+#: ../qml/Main.qml:645 ../qml/Main.qml:1127
+msgid "Commercial stations"
+msgstr "Stations commerciales"
+
+#: ../qml/Main.qml:1112
+msgid "No stations found..."
+msgstr "Aucune station trouvée..."
+
+#: ../qml/Main.qml:1366 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Antwerp"
+msgstr "Anvers"
+
+#: ../qml/Main.qml:1500 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Brussels"
+msgstr "Bruxelles"
+
+#: ../qml/Main.qml:1636 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Hainaut"
+msgstr "Hainaut"
+
+#: ../qml/Main.qml:1740 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Limburg"
+msgstr "Limbourg"
+
+#: ../qml/Main.qml:1979 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Liege"
+msgstr "Liège"
+
+#: ../qml/Main.qml:2098 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: ../qml/Main.qml:2187 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Namur"
+msgstr "Namur"
+
+#: ../qml/Main.qml:2261 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "East Flanders"
+msgstr "Flandre orientale"
+
+#: ../qml/Main.qml:2412 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "West Flanders"
+msgstr "Flandre occidentale"
+
+#: ../qml/Main.qml:2456 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Flemish Brabant"
+msgstr "Brabant flamand"
+
+#: ../qml/Main.qml:2530 ../qml/SettingsDialog.qml:28
+#: ../qml/TutorialRegionaalDialog.qml:28
+msgid "Walloon Brabant"
+msgstr "Brabant wallon"
+
+#: ../qml/Main.qml:2737 ../qml/Main.qml:3157
+msgid "Now playing"
+msgstr "En cours de lecture"
+
+#: ../qml/Main.qml:2873
+msgid "Favorites"
+msgstr "Favoris"
+
+#: ../qml/Main.qml:3184
+msgid "Select a station..."
+msgstr "Sélectionnez une station..."
+
+#: ../qml/Main.qml:3299
+msgid "Oops!"
+msgstr "Oups !"
+
+#: ../qml/Main.qml:3300
+msgid ""
+"This app requires an active internet connection! Please check your network "
+"settings and try again."
+msgstr ""
+"Cette application a besoin d'une connexion Internet active ! Veuillez vérifier les "
+"paramètres de votre réseau et réessayer."
+
+#: ../qml/Main.qml:3302 ../qml/Main.qml:3321 ../qml/Main.qml:3342
+#: ../qml/SettingsDialog.qml:247 ../qml/TutorialRegionaalDialog.qml:255
+msgid "Close"
+msgstr "Fermer"
+
+#: ../qml/Main.qml:3308
+msgid "Try anyway"
+msgstr "Essayer quand même"
+
+#: ../qml/Main.qml:3319
+msgid "Add favorites"
+msgstr "Ajouter aux favoris"
+
+#: ../qml/Main.qml:3319
+msgid ""
+"At the top of the screen you can switch between national, alternative and "
+"regional stations. You can switch between the different regions by using the "
+"flags in the menu bar."
+msgstr ""
+"En haut de l'écran, vous pouvez passer d'une station nationale, alternative ou "
+"régionale à l'autre. Vous pouvez basculer entre les différentes régions en utilisant "
+"la barre de menu."
+
+#: ../qml/Main.qml:3319
+msgid "Existing favorites can be overwritten by long pressing a button again."
+msgstr "Les favoris existants peuvent être écrasés en appuyant à nouveau longtemps sur un bouton."
+
+#: ../qml/Main.qml:3319
+msgid ""
+"Long press a button and the current playing radio station will be added to "
+"the favorites."
+msgstr ""
+"Appuyez longuement sur un bouton et la station de radio en cours de diffusion "
+"sera ajoutée aux favoris."
+
+#: ../qml/Main.qml:3319
+msgid "Swipe up from the bottom of the screen to show the favorites."
+msgstr "Faites glisser le curseur en bas de l'écran vers le haut pour afficher les favoris."
+
+#: ../qml/Main.qml:3319
+msgid "Switch category"
+msgstr "Changer de catégorie"
+
+#: ../qml/Main.qml:3319
+msgid "Tap an existing favorite to play the radio station."
+msgstr "Appuyez sur un favori existant pour écouter la station de radio."
+
+#: ../qml/Main.qml:3336
+msgid "License"
+msgstr "Licence"
+
+#: ../qml/Main.qml:3336
+msgid "Source code"
+msgstr "Code source"
+
+#: ../qml/Main.qml:3336
+msgid "Version"
+msgstr "Version"
+
+#: ../qml/SettingsDialog.qml:20 ../qml/TutorialRegionaalDialog.qml:20
+msgid "Choose your region below."
+msgstr "Choisissez votre région ci-dessous."
+
+#: ../qml/TutorialRegionaalDialog.qml:20
+msgid "You can adjust your choice later in the settings."
+msgstr "Vous pouvez modifier votre choix plus tard dans les paramètres."
+
+#: ../qml/TutorialRegionaalDialog.qml:252
+msgid "Cancel"
+msgstr "Annuler"
