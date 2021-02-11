@@ -67,7 +67,7 @@ msgstr "Régional"
 
 #: ../qml/Main.qml:368
 msgid "Select a region to listen to national<br>and alternative radio stations"
-msgstr "Sélectionnez une région pour écouter des stations de radio nationales<br>et alternatives"
+msgstr "Sélectionnez une région pour écouter<br>des stations de radio nationales et alternatives"
 
 #: ../qml/Main.qml:376
 msgid "Dutch-speaking Belgium"
