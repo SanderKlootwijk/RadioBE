@@ -2659,11 +2659,14 @@ MainView {
       }
 
       visible: {
-        if (root.width < units.gu(120)) {
-          true
+        if (root.width > units.gu(120)) {
+          false
+        }
+        else if (player.source < 1) {
+          false
         }
         else {
-          false
+          true
         }
       }
 
@@ -2806,6 +2809,10 @@ MainView {
         Rectangle {
           z: 4
           id: buffer
+
+          width: units.gu(3)
+          height: width
+
           visible: {
             if (player.playbackState == true) {
               if (player.bufferProgress < 0.20) {
@@ -2820,15 +2827,15 @@ MainView {
             }
           }
 
-          anchors.fill: parent
+          anchors {
+            centerIn: playerIcon
+          }
+
           color: theme.palette.normal.background
 
           ActivityIndicator {
-            width: units.gu(3.2)
-            height: width
-
             running: true
-            anchors.centerIn: parent
+            anchors.fill: parent
           }
         }
       }
@@ -2907,22 +2914,21 @@ MainView {
                 if (settings.slot1source == "") {
                 }
                 else {
-                  player.stop()
                   player.source = settings.slot1source
                   player.play()
                   playerText.text = settings.slot1text
                   bottomIMG.source = settings.slot1img
-                  settings.source = player.source
-                  settings.text = playerText.text
-                  settings.image = bottomIMG.source
+                  settings.source = settings.slot1source
+                  settings.text = settings.slot1text
+                  settings.image = settings.slot1img
                   bottomEdge.collapse()
                 }
               }
               onPressAndHold: {
-                slot1img.source = bottomIMG.source
-                settings.slot1img = bottomIMG.source
-                settings.slot1text = playerText.text
-                settings.slot1source = player.source
+                slot1img.source = settings.image
+                settings.slot1img = settings.image
+                settings.slot1text = settings.text
+                settings.slot1source = settings.source
               }
             }
 
@@ -2960,22 +2966,21 @@ MainView {
                 if (settings.slot2source == "") {
                 }
                 else {
-                  player.stop()
                   player.source = settings.slot2source
                   player.play()
                   playerText.text = settings.slot2text
                   bottomIMG.source = settings.slot2img
-                  settings.source = player.source
-                  settings.text = playerText.text
-                  settings.image = bottomIMG.source
+                  settings.source = settings.slot2source
+                  settings.text = settings.slot2text
+                  settings.image = settings.slot2img
                   bottomEdge.collapse()
                 }
               }
               onPressAndHold: {
-                slot2img.source = bottomIMG.source
-                settings.slot2img = bottomIMG.source
-                settings.slot2text = playerText.text
-                settings.slot2source = player.source
+                slot2img.source = settings.image
+                settings.slot2img = settings.image
+                settings.slot2text = settings.text
+                settings.slot2source = settings.source
               }
             }
 
@@ -3013,22 +3018,21 @@ MainView {
                 if (settings.slot3source == "") {
                 }
                 else {
-                  player.stop()
                   player.source = settings.slot3source
                   player.play()
                   playerText.text = settings.slot3text
                   bottomIMG.source = settings.slot3img
-                  settings.source = player.source
-                  settings.text = playerText.text
-                  settings.image = bottomIMG.source
+                  settings.source = settings.slot3source
+                  settings.text = settings.slot3text
+                  settings.image = settings.slot3img
                   bottomEdge.collapse()
                 }
               }
               onPressAndHold: {
-                slot3img.source = bottomIMG.source
-                settings.slot3img = bottomIMG.source
-                settings.slot3text = playerText.text
-                settings.slot3source = player.source
+                slot3img.source = settings.image
+                settings.slot3img = settings.image
+                settings.slot3text = settings.text
+                settings.slot3source = settings.source
               }
             }
 
@@ -3066,22 +3070,21 @@ MainView {
                 if (settings.slot4source == "") {
                 }
                 else {
-                  player.stop()
                   player.source = settings.slot4source
                   player.play()
                   playerText.text = settings.slot4text
                   bottomIMG.source = settings.slot4img
-                  settings.source = player.source
-                  settings.text = playerText.text
-                  settings.image = bottomIMG.source
+                  settings.source = settings.slot4source
+                  settings.text = settings.slot4text
+                  settings.image = settings.slot4img
                   bottomEdge.collapse()
                 }
               }
               onPressAndHold: {
-                slot4img.source = bottomIMG.source
-                settings.slot4img = bottomIMG.source
-                settings.slot4text = playerText.text
-                settings.slot4source = player.source
+                slot4img.source = settings.image
+                settings.slot4img = settings.image
+                settings.slot4text = settings.text
+                settings.slot4source = settings.source
               }
             }
 

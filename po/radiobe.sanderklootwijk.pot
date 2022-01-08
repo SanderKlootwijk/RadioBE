@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: radiobe.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-05 08:16+0000\n"
+"POT-Creation-Date: 2022-01-08 16:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../qml/Main.qml:75 ../qml/Main.qml:3334 radiobe.desktop.in.h:1
+#: ../qml/Main.qml:75 ../qml/Main.qml:3337 radiobe.desktop.in.h:1
 msgid "Radio BE"
 msgstr ""
 
@@ -50,7 +50,7 @@ msgstr ""
 msgid "Help"
 msgstr ""
 
-#: ../qml/Main.qml:207 ../qml/Main.qml:3334
+#: ../qml/Main.qml:207 ../qml/Main.qml:3337
 msgid "About"
 msgstr ""
 
@@ -149,79 +149,79 @@ msgstr ""
 msgid "Walloon Brabant"
 msgstr ""
 
-#: ../qml/Main.qml:2737 ../qml/Main.qml:3157
+#: ../qml/Main.qml:2740 ../qml/Main.qml:3160
 msgid "Now playing"
 msgstr ""
 
-#: ../qml/Main.qml:2873
+#: ../qml/Main.qml:2880
 msgid "Favorites"
 msgstr ""
 
-#: ../qml/Main.qml:3184
+#: ../qml/Main.qml:3187
 msgid "Select a station..."
 msgstr ""
 
-#: ../qml/Main.qml:3299
+#: ../qml/Main.qml:3302
 msgid "Oops!"
 msgstr ""
 
-#: ../qml/Main.qml:3300
+#: ../qml/Main.qml:3303
 msgid ""
 "This app requires an active internet connection! Please check your network "
 "settings and try again."
 msgstr ""
 
-#: ../qml/Main.qml:3302 ../qml/Main.qml:3321 ../qml/Main.qml:3342
+#: ../qml/Main.qml:3305 ../qml/Main.qml:3324 ../qml/Main.qml:3345
 #: ../qml/SettingsDialog.qml:247 ../qml/TutorialRegionaalDialog.qml:255
 msgid "Close"
 msgstr ""
 
-#: ../qml/Main.qml:3308
+#: ../qml/Main.qml:3311
 msgid "Try anyway"
 msgstr ""
 
-#: ../qml/Main.qml:3319
+#: ../qml/Main.qml:3322
 msgid "Add favorites"
 msgstr ""
 
-#: ../qml/Main.qml:3319
+#: ../qml/Main.qml:3322
 msgid ""
 "At the top of the screen you can switch between national, alternative and "
 "regional stations. You can switch between the different regions by using the "
 "flags in the menu bar."
 msgstr ""
 
-#: ../qml/Main.qml:3319
+#: ../qml/Main.qml:3322
 msgid "Existing favorites can be overwritten by long pressing a button again."
 msgstr ""
 
-#: ../qml/Main.qml:3319
+#: ../qml/Main.qml:3322
 msgid ""
 "Long press a button and the current playing radio station will be added to "
 "the favorites."
 msgstr ""
 
-#: ../qml/Main.qml:3319
+#: ../qml/Main.qml:3322
 msgid "Swipe up from the bottom of the screen to show the favorites."
 msgstr ""
 
-#: ../qml/Main.qml:3319
+#: ../qml/Main.qml:3322
 msgid "Switch category"
 msgstr ""
 
-#: ../qml/Main.qml:3319
+#: ../qml/Main.qml:3322
 msgid "Tap an existing favorite to play the radio station."
 msgstr ""
 
-#: ../qml/Main.qml:3336
+#: ../qml/Main.qml:3339
 msgid "License"
 msgstr ""
 
-#: ../qml/Main.qml:3336
+#: ../qml/Main.qml:3339
 msgid "Source code"
 msgstr ""
 
-#: ../qml/Main.qml:3336
+#: ../qml/Main.qml:3339
 msgid "Version"
 msgstr ""
 
