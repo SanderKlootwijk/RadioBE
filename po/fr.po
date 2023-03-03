@@ -3,242 +3,281 @@
 # This file is distributed under the same license as the radiobe.sanderklootwijk package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: radiobe.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-05 08:16+0000\n"
-"PO-Revision-Date: 2021-02-06 18:01+0000\n"
-"Last-Translator: Anne017 <anneonyme017@openmailbox.org>\n"
+"POT-Creation-Date: 2022-12-28 14:37+0000\n"
+"PO-Revision-Date: 2022-12-28 14:38+0000\n"
+"Last-Translator: Sander Klootwijk <sander.klootwijk@tutanota.com>\n"
+"Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
 
-#: ../qml/Main.qml:75 ../qml/Main.qml:3334 radiobe.desktop.in.h:1
-msgid "Radio BE"
-msgstr "Radio BE"
-
-#: ../qml/Main.qml:104 ../qml/Main.qml:375
-msgid "Flanders"
-msgstr "Flandres"
-
-#: ../qml/Main.qml:125 ../qml/Main.qml:396
-msgid "Wallonia"
-msgstr "Wallonie"
-
-#: ../qml/Main.qml:146 ../qml/Main.qml:417
-msgid "East-Belgium"
-msgstr "Cantons de l'Est"
-
-#: ../qml/Main.qml:156 ../qml/SettingsDialog.qml:11
-#: ../qml/TutorialRegionaalDialog.qml:11
-msgid "Settings"
-msgstr "Paramètres"
-
-#: ../qml/Main.qml:164
-msgid "Night mode"
-msgstr "Mode nuit"
-
-#: ../qml/Main.qml:168
-msgid "Day mode"
-msgstr "Mode jour"
-
-#: ../qml/Main.qml:199
-msgid "Help"
-msgstr "Aide"
-
-#: ../qml/Main.qml:207 ../qml/Main.qml:3334
+#: ../qml/AboutPage.qml:10 ../qml/Main.qml:199
 msgid "About"
 msgstr "À propos"
 
-#: ../qml/Main.qml:225
-msgid "National"
-msgstr "National"
+#: ../qml/AboutPage.qml:63 ../qml/Main.qml:173 radiobe.desktop.in.h:1
+msgid "Radio BE"
+msgstr "Radio BE"
 
-#: ../qml/Main.qml:231
-msgid "Alternative"
-msgstr "Alternatif"
-
-#: ../qml/Main.qml:237
-msgid "Regional"
-msgstr "Régional"
-
-#: ../qml/Main.qml:368
-msgid "Select a region to listen to national<br>and alternative radio stations"
-msgstr "Sélectionnez une région pour écouter<br>des stations de radio nationales et alternatives"
-
-#: ../qml/Main.qml:376
-msgid "Dutch-speaking Belgium"
-msgstr "Belgique néerlandophone"
-
-#: ../qml/Main.qml:397
-msgid "French-speaking Belgium"
-msgstr "Belgique francophone"
-
-#: ../qml/Main.qml:418
-msgid "German-speaking Belgium"
-msgstr "Belgique germanophone"
-
-#: ../qml/Main.qml:440 ../qml/Main.qml:999
-msgid "Public broadcast Corporation"
-msgstr "Stations publiques"
-
-#: ../qml/Main.qml:645 ../qml/Main.qml:1127
-msgid "Commercial stations"
-msgstr "Stations commerciales"
-
-#: ../qml/Main.qml:1112
-msgid "No stations found..."
-msgstr "Aucune station trouvée..."
-
-#: ../qml/Main.qml:1366 ../qml/SettingsDialog.qml:28
-#: ../qml/TutorialRegionaalDialog.qml:28
-msgid "Antwerp"
-msgstr "Anvers"
-
-#: ../qml/Main.qml:1500 ../qml/SettingsDialog.qml:28
-#: ../qml/TutorialRegionaalDialog.qml:28
-msgid "Brussels"
-msgstr "Bruxelles"
-
-#: ../qml/Main.qml:1636 ../qml/SettingsDialog.qml:28
-#: ../qml/TutorialRegionaalDialog.qml:28
-msgid "Hainaut"
-msgstr "Hainaut"
-
-#: ../qml/Main.qml:1740 ../qml/SettingsDialog.qml:28
-#: ../qml/TutorialRegionaalDialog.qml:28
-msgid "Limburg"
-msgstr "Limbourg"
-
-#: ../qml/Main.qml:1979 ../qml/SettingsDialog.qml:28
-#: ../qml/TutorialRegionaalDialog.qml:28
-msgid "Liege"
-msgstr "Liège"
-
-#: ../qml/Main.qml:2098 ../qml/SettingsDialog.qml:28
-#: ../qml/TutorialRegionaalDialog.qml:28
-msgid "Luxembourg"
-msgstr "Luxembourg"
-
-#: ../qml/Main.qml:2187 ../qml/SettingsDialog.qml:28
-#: ../qml/TutorialRegionaalDialog.qml:28
-msgid "Namur"
-msgstr "Namur"
-
-#: ../qml/Main.qml:2261 ../qml/SettingsDialog.qml:28
-#: ../qml/TutorialRegionaalDialog.qml:28
-msgid "East Flanders"
-msgstr "Flandre orientale"
-
-#: ../qml/Main.qml:2412 ../qml/SettingsDialog.qml:28
-#: ../qml/TutorialRegionaalDialog.qml:28
-msgid "West Flanders"
-msgstr "Flandre occidentale"
-
-#: ../qml/Main.qml:2456 ../qml/SettingsDialog.qml:28
-#: ../qml/TutorialRegionaalDialog.qml:28
-msgid "Flemish Brabant"
-msgstr "Brabant flamand"
-
-#: ../qml/Main.qml:2530 ../qml/SettingsDialog.qml:28
-#: ../qml/TutorialRegionaalDialog.qml:28
-msgid "Walloon Brabant"
-msgstr "Brabant wallon"
-
-#: ../qml/Main.qml:2737 ../qml/Main.qml:3157
-msgid "Now playing"
-msgstr "En cours de lecture"
-
-#: ../qml/Main.qml:2873
-msgid "Favorites"
-msgstr "Favoris"
-
-#: ../qml/Main.qml:3184
-msgid "Select a station..."
-msgstr "Sélectionnez une station..."
-
-#: ../qml/Main.qml:3299
-msgid "Oops!"
-msgstr "Oups !"
-
-#: ../qml/Main.qml:3300
-msgid ""
-"This app requires an active internet connection! Please check your network "
-"settings and try again."
-msgstr ""
-"Cette application a besoin d'une connexion Internet active ! Veuillez vérifier les "
-"paramètres de votre réseau et réessayer."
-
-#: ../qml/Main.qml:3302 ../qml/Main.qml:3321 ../qml/Main.qml:3342
-#: ../qml/SettingsDialog.qml:247 ../qml/TutorialRegionaalDialog.qml:255
-msgid "Close"
-msgstr "Fermer"
-
-#: ../qml/Main.qml:3308
-msgid "Try anyway"
-msgstr "Essayer quand même"
-
-#: ../qml/Main.qml:3319
-msgid "Add favorites"
-msgstr "Ajouter aux favoris"
-
-#: ../qml/Main.qml:3319
-msgid ""
-"At the top of the screen you can switch between national, alternative and "
-"regional stations. You can switch between the different regions by using the "
-"flags in the menu bar."
-msgstr ""
-"En haut de l'écran, vous pouvez passer d'une station nationale, alternative ou "
-"régionale à l'autre. Vous pouvez basculer entre les différentes régions en utilisant "
-"la barre de menu."
-
-#: ../qml/Main.qml:3319
-msgid "Existing favorites can be overwritten by long pressing a button again."
-msgstr "Les favoris existants peuvent être écrasés en appuyant à nouveau longtemps sur un bouton."
-
-#: ../qml/Main.qml:3319
-msgid ""
-"Long press a button and the current playing radio station will be added to "
-"the favorites."
-msgstr ""
-"Appuyez longuement sur un bouton et la station de radio en cours de diffusion "
-"sera ajoutée aux favoris."
-
-#: ../qml/Main.qml:3319
-msgid "Swipe up from the bottom of the screen to show the favorites."
-msgstr "Faites glisser le curseur en bas de l'écran vers le haut pour afficher les favoris."
-
-#: ../qml/Main.qml:3319
-msgid "Switch category"
-msgstr "Changer de catégorie"
-
-#: ../qml/Main.qml:3319
-msgid "Tap an existing favorite to play the radio station."
-msgstr "Appuyez sur un favori existant pour écouter la station de radio."
-
-#: ../qml/Main.qml:3336
-msgid "License"
-msgstr "Licence"
-
-#: ../qml/Main.qml:3336
-msgid "Source code"
-msgstr "Code source"
-
-#: ../qml/Main.qml:3336
+#: ../qml/AboutPage.qml:68
 msgid "Version"
 msgstr "Version"
 
-#: ../qml/SettingsDialog.qml:20 ../qml/TutorialRegionaalDialog.qml:20
-msgid "Choose your region below."
-msgstr "Choisissez votre région ci-dessous."
+#: ../qml/AboutPage.qml:85
+msgid "Source code"
+msgstr "Code source"
 
-#: ../qml/TutorialRegionaalDialog.qml:20
-msgid "You can adjust your choice later in the settings."
-msgstr "Vous pouvez modifier votre choix plus tard dans les paramètres."
+#: ../qml/AboutPage.qml:86
+msgid "Report issues"
+msgstr ""
 
-#: ../qml/TutorialRegionaalDialog.qml:252
-msgid "Cancel"
-msgstr "Annuler"
+#: ../qml/FavoritesPage.qml:12
+msgid "Favorites"
+msgstr "Favoris"
+
+#: ../qml/Main.qml:184
+msgid "Alternative"
+msgstr "Alternatif"
+
+#: ../qml/Main.qml:184
+msgid "National"
+msgstr "National"
+
+#: ../qml/Main.qml:184
+msgid "Regional"
+msgstr "Régional"
+
+#: ../qml/Main.qml:194 ../qml/SettingsPage.qml:11
+msgid "Settings"
+msgstr "Paramètres"
+
+#: ../qml/Main.qml:275
+msgid "You appear to be offline"
+msgstr ""
+
+#: ../qml/Main.qml:275
+msgid "You are back online"
+msgstr ""
+
+#: ../qml/ProvinceSettingsPage.qml:14 ../qml/SettingsPage.qml:187
+msgid "Province"
+msgstr ""
+
+#: ../qml/ProvinceSettingsPage.qml:53
+msgid ""
+"Choose a province from the list below, to show radio stations from your "
+"province on the <i>Regional</i> tab"
+msgstr ""
+
+#: ../qml/ProvinceSettingsPage.qml:61 ../qml/TabRegional.qml:59
+msgid "Antwerp"
+msgstr "Anvers"
+
+#: ../qml/ProvinceSettingsPage.qml:66 ../qml/TabRegional.qml:129
+msgid "Brussels"
+msgstr "Bruxelles"
+
+#: ../qml/ProvinceSettingsPage.qml:71 ../qml/TabRegional.qml:201
+msgid "Hainaut"
+msgstr "Hainaut"
+
+#: ../qml/ProvinceSettingsPage.qml:76 ../qml/TabRegional.qml:257
+msgid "Limburg"
+msgstr "Limbourg"
+
+#: ../qml/ProvinceSettingsPage.qml:81 ../qml/TabRegional.qml:376
+msgid "Liege"
+msgstr "Liège"
+
+#: ../qml/ProvinceSettingsPage.qml:86 ../qml/TabRegional.qml:439
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: ../qml/ProvinceSettingsPage.qml:91 ../qml/TabRegional.qml:488
+msgid "Namur"
+msgstr "Namur"
+
+#: ../qml/ProvinceSettingsPage.qml:96 ../qml/TabRegional.qml:530
+msgid "East Flanders"
+msgstr "Flandre orientale"
+
+#: ../qml/ProvinceSettingsPage.qml:101 ../qml/TabRegional.qml:609
+msgid "West Flanders"
+msgstr "Flandre occidentale"
+
+#: ../qml/ProvinceSettingsPage.qml:106 ../qml/TabRegional.qml:637
+msgid "Flemish Brabant"
+msgstr "Brabant flamand"
+
+#: ../qml/ProvinceSettingsPage.qml:111 ../qml/TabRegional.qml:679
+msgid "Walloon Brabant"
+msgstr "Brabant wallon"
+
+#: ../qml/RegionSettingsPage.qml:14 ../qml/SettingsPage.qml:118
+msgid "Region"
+msgstr "Région"
+
+#: ../qml/RegionSettingsPage.qml:53
+msgid ""
+"Choose a region from the list below, to show national and alternative radio "
+"stations"
+msgstr ""
+
+#: ../qml/RegionSettingsPage.qml:61 ../qml/TabAlternative.qml:52
+#: ../qml/TabNational.qml:52
+msgid "Flanders"
+msgstr "Flandres"
+
+#: ../qml/RegionSettingsPage.qml:63 ../qml/TabAlternative.qml:54
+#: ../qml/TabNational.qml:54
+msgid "Dutch-speaking Belgium"
+msgstr "Belgique néerlandophone"
+
+#: ../qml/RegionSettingsPage.qml:67 ../qml/TabAlternative.qml:60
+#: ../qml/TabNational.qml:60
+msgid "Wallonia"
+msgstr "Wallonie"
+
+#: ../qml/RegionSettingsPage.qml:69 ../qml/TabAlternative.qml:62
+#: ../qml/TabNational.qml:62
+msgid "French-speaking Belgium"
+msgstr "Belgique francophone"
+
+#: ../qml/RegionSettingsPage.qml:73 ../qml/TabAlternative.qml:68
+#: ../qml/TabNational.qml:68
+msgid "East-Belgium"
+msgstr "Cantons de l'Est"
+
+#: ../qml/RegionSettingsPage.qml:75 ../qml/TabAlternative.qml:70
+#: ../qml/TabNational.qml:70
+msgid "German-speaking Belgium"
+msgstr "Belgique germanophone"
+
+#: ../qml/SettingsPage.qml:52
+msgid "Dark mode"
+msgstr ""
+
+#: ../qml/SettingsPage.qml:86
+msgid "Automatic playback on startup"
+msgstr ""
+
+#: ../qml/SettingsPage.qml:134
+msgid "No region set"
+msgstr ""
+
+#: ../qml/SettingsPage.qml:203
+msgid "No province set"
+msgstr ""
+
+#: ../qml/TabAlternative.qml:44 ../qml/TabNational.qml:44
+msgid "Select a region to listen to national and alternative radio stations"
+msgstr ""
+
+#: ../qml/TabAlternative.qml:85 ../qml/TabAlternative.qml:160
+#: ../qml/TabNational.qml:85 ../qml/TabNational.qml:174
+#: ../qml/TabNational.qml:270
+msgid "Stations"
+msgstr ""
+
+#: ../qml/TabAlternative.qml:114 ../qml/TabAlternative.qml:189
+#: ../qml/TabAlternative.qml:248 ../qml/TabNational.qml:128
+#: ../qml/TabNational.qml:217 ../qml/TabNational.qml:292
+msgid "Commercial Stations"
+msgstr ""
+
+#: ../qml/TabRegional.qml:44
+msgid ""
+"Choose a province from the app settings, to show regional radio stations "
+"below"
+msgstr ""
+
+#: ../qml/components/BottomMenu.qml:57 ../qml/components/PlayerPage.qml:13
+#: ../qml/components/PlayerPage.qml:74
+msgid "Now playing"
+msgstr "En cours de lecture"
+
+#: ../qml/components/FavoriteShape.qml:47
+msgid "Long press to add station..."
+msgstr ""
+
+#~ msgid "Night mode"
+#~ msgstr "Mode nuit"
+
+#~ msgid "Help"
+#~ msgstr "Aide"
+
+#~ msgid "Public broadcast Corporation"
+#~ msgstr "Stations publiques"
+
+#~ msgid "No stations found..."
+#~ msgstr "Aucune station trouvée..."
+
+#~ msgid "Oops!"
+#~ msgstr "Oups !"
+
+#~ msgid ""
+#~ "This app requires an active internet connection! Please check your "
+#~ "network settings and try again."
+#~ msgstr ""
+#~ "Cette application a besoin d'une connexion Internet active ! Veuillez "
+#~ "vérifier les paramètres de votre réseau et réessayer."
+
+#~ msgid "Close"
+#~ msgstr "Fermer"
+
+#~ msgid "Try anyway"
+#~ msgstr "Essayer quand même"
+
+#~ msgid "Add favorites"
+#~ msgstr "Ajouter aux favoris"
+
+#~ msgid ""
+#~ "At the top of the screen you can switch between national, alternative and "
+#~ "regional stations. You can switch between the different regions by using "
+#~ "the flags in the menu bar."
+#~ msgstr ""
+#~ "En haut de l'écran, vous pouvez passer d'une station nationale, "
+#~ "alternative ou régionale à l'autre. Vous pouvez basculer entre les "
+#~ "différentes régions en utilisant la barre de menu."
+
+#~ msgid ""
+#~ "Existing favorites can be overwritten by long pressing a button again."
+#~ msgstr ""
+#~ "Les favoris existants peuvent être écrasés en appuyant à nouveau "
+#~ "longtemps sur un bouton."
+
+#~ msgid ""
+#~ "Long press a button and the current playing radio station will be added "
+#~ "to the favorites."
+#~ msgstr ""
+#~ "Appuyez longuement sur un bouton et la station de radio en cours de "
+#~ "diffusion sera ajoutée aux favoris."
+
+#~ msgid "Swipe up from the bottom of the screen to show the favorites."
+#~ msgstr ""
+#~ "Faites glisser le curseur en bas de l'écran vers le haut pour afficher "
+#~ "les favoris."
+
+#~ msgid "Switch category"
+#~ msgstr "Changer de catégorie"
+
+#~ msgid "Tap an existing favorite to play the radio station."
+#~ msgstr "Appuyez sur un favori existant pour écouter la station de radio."
+
+#~ msgid "License"
+#~ msgstr "Licence"
+
+#~ msgid "Choose your region below."
+#~ msgstr "Choisissez votre région ci-dessous."
+
+#~ msgid "You can adjust your choice later in the settings."
+#~ msgstr "Vous pouvez modifier votre choix plus tard dans les paramètres."
+
+#~ msgid "Cancel"
+#~ msgstr "Annuler"
