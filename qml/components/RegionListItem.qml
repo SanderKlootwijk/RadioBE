@@ -1,5 +1,5 @@
 import QtQuick 2.9
-import Ubuntu.Components 1.3
+import Lomiri.Components 1.3
 
 ListItem {
     id: regionFlagListItem
@@ -14,7 +14,7 @@ ListItem {
       settings.regionName = region
     }
 
-    UbuntuShape {
+    LomiriShape {
       id: logoShape
       height: units.gu(7)
       width: height
@@ -25,13 +25,13 @@ ListItem {
         verticalCenter: parent.verticalCenter
       }
 
-      // Put region flag in UbuntuShape
+      // Put region flag in LomiriShape
       source: Image {
         id: logo
         source: "img/" + region + "-square.svg"
       }
 
-      aspect: UbuntuShape.Inset
+      aspect: LomiriShape.Inset
     }
 
     // Put labels in a 'box'

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: radiobe.sanderklootwijk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-28 14:40+0000\n"
+"POT-Creation-Date: 2023-09-23 16:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -179,14 +179,14 @@ msgstr ""
 msgid "Select a region to listen to national and alternative radio stations"
 msgstr ""
 
-#: ../qml/TabAlternative.qml:85 ../qml/TabAlternative.qml:160
+#: ../qml/TabAlternative.qml:85 ../qml/TabAlternative.qml:174
 #: ../qml/TabNational.qml:85 ../qml/TabNational.qml:174
 #: ../qml/TabNational.qml:270
 msgid "Stations"
 msgstr ""
 
-#: ../qml/TabAlternative.qml:114 ../qml/TabAlternative.qml:189
-#: ../qml/TabAlternative.qml:248 ../qml/TabNational.qml:128
+#: ../qml/TabAlternative.qml:128 ../qml/TabAlternative.qml:203
+#: ../qml/TabAlternative.qml:262 ../qml/TabNational.qml:128
 #: ../qml/TabNational.qml:217 ../qml/TabNational.qml:292
 msgid "Commercial Stations"
 msgstr ""

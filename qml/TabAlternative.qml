@@ -96,8 +96,22 @@ Item {
                     name: "Radio 1 Classics"
                     subText: "Non-stop classics"
                     logo: "img/radio1classics.jpg"
-                    source: "http://icecast.vrtcdn.be/radio1_classics_high.mp3"
+                    source: "http://vrt.streamabc.net/vrt-radio1classics-mp3-128-2365462"
                 }      
+
+                Station {
+                    name: "MNM Hits"
+                    subText: "De grootste hits, non-stop"
+                    logo: "img/mnmhits.jpg"
+                    source: "http://icecast.vrtcdn.be/mnm_hits-high.mp3"
+                } 
+
+                Station {
+                    name: "Klara Continuo"
+                    subText: "Non-stop klassiek"
+                    logo: "img/klaracontinuo.jpg"
+                    source: "https://icecast.vrtcdn.be/klaracontinuo-high.mp3"
+                }
 
                 Station {
                     name: "Ketnet Hits"

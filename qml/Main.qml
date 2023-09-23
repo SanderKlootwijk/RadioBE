@@ -17,7 +17,7 @@ MainView {
     applicationName: 'radiobe.sanderklootwijk'
     automaticOrientation: true
 
-    property string version: "3.0.0"
+    property string version: "3.0.1"
 
     Component.onCompleted: {
         // On first run, with an empty source

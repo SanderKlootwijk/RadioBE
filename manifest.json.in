@@ -9,7 +9,7 @@
             "desktop":  "radiobe.desktop"
         }
     },
-    "version": "3.0.0",
+    "version": "3.0.1",
     "maintainer": "Sander Klootwijk <sander.klootwijk@tutanota.com>",
     "framework" : "@CLICK_FRAMEWORK@"
 }

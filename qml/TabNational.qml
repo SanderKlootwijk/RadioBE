@@ -139,7 +139,7 @@ Item {
                     name: "Joe"
                     subText: "All the way"
                     logo: "img/joe.jpg"
-                    source: "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3"
+                    source: "https://streams.radio.dpgmedia.cloud/redirect/joe_fm/mp3"
                 }
 
                 Station {
